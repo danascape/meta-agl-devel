@@ -1,6 +1,7 @@
 # Add minimal core ROS
 IMAGE_INSTALL:append = " \
     ros-core \
+    ros-flutter \
 "
 
 ROS_SDK_HOST_PACKAGES = " \
