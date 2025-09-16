@@ -2,6 +2,7 @@
 IMAGE_INSTALL:append = " \
     ros-core \
     ros-flutter \
+    ros2-humble-ldconfig \
 "
 
 ROS_SDK_HOST_PACKAGES = " \
